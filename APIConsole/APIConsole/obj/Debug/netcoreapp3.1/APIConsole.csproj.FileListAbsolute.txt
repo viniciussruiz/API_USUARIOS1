@@ -1,0 +1,16 @@
+C:\Users\vinic\API C#\APIConsole\APIConsole\bin\Debug\netcoreapp3.1\APIConsole.exe
+C:\Users\vinic\API C#\APIConsole\APIConsole\bin\Debug\netcoreapp3.1\APIConsole.deps.json
+C:\Users\vinic\API C#\APIConsole\APIConsole\bin\Debug\netcoreapp3.1\APIConsole.runtimeconfig.json
+C:\Users\vinic\API C#\APIConsole\APIConsole\bin\Debug\netcoreapp3.1\APIConsole.runtimeconfig.dev.json
+C:\Users\vinic\API C#\APIConsole\APIConsole\bin\Debug\netcoreapp3.1\APIConsole.dll
+C:\Users\vinic\API C#\APIConsole\APIConsole\bin\Debug\netcoreapp3.1\APIConsole.pdb
+C:\Users\vinic\API C#\APIConsole\APIConsole\obj\Debug\netcoreapp3.1\APIConsole.csproj.AssemblyReference.cache
+C:\Users\vinic\API C#\APIConsole\APIConsole\obj\Debug\netcoreapp3.1\APIConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\API C#\APIConsole\APIConsole\obj\Debug\netcoreapp3.1\APIConsole.AssemblyInfoInputs.cache
+C:\Users\vinic\API C#\APIConsole\APIConsole\obj\Debug\netcoreapp3.1\APIConsole.AssemblyInfo.cs
+C:\Users\vinic\API C#\APIConsole\APIConsole\obj\Debug\netcoreapp3.1\APIConsole.csproj.CoreCompileInputs.cache
+C:\Users\vinic\API C#\APIConsole\APIConsole\obj\Debug\netcoreapp3.1\APIConsole.dll
+C:\Users\vinic\API C#\APIConsole\APIConsole\obj\Debug\netcoreapp3.1\APIConsole.pdb
+C:\Users\vinic\API C#\APIConsole\APIConsole\obj\Debug\netcoreapp3.1\APIConsole.genruntimeconfig.cache
+C:\Users\vinic\API C#\APIConsole\APIConsole\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\vinic\API C#\APIConsole\APIConsole\obj\Debug\netcoreapp3.1\APIConsole.csproj.CopyComplete
